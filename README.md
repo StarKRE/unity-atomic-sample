@@ -28,5 +28,3 @@ _Небольшой пример игровых механик, реализов
 - [Стрим. Часть 1](https://youtube.com/live/BB8tgIX9AXY)
 - [Стрим. Часть 2](https://youtube.com/live/eHYi-e5w4Lc)
 - [Стрим. Часть 3](https://youtube.com/live/lIX9ryGy7mo)
-
-Также прикрепляю [ссылку](https://unitycodecraft.ru/) на курс по разработке коргеймплея на Unity
