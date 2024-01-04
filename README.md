@@ -22,8 +22,11 @@ _Небольшой пример игровых механик, реализов
 <img width="902" alt="image" src="https://github.com/StarKRE/unity-atomic-sample/assets/22048950/44235601-34e3-4ae2-88d8-42480fd101e6">
 
 -----
-#### Туториал по атомарному подходу:
+#### Туториал по Атомарному Подходу:
 - [Статья на хабре](https://habr.com/ru/articles/781122/)
+  
 - [Стрим. Часть 1](https://youtube.com/live/BB8tgIX9AXY)
 - [Стрим. Часть 2](https://youtube.com/live/eHYi-e5w4Lc)
 - [Стрим. Часть 3](https://youtube.com/live/lIX9ryGy7mo)
+
+- [Курс по Атомарному подходу](https://unitycodecraft.ru/)
